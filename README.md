@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jhamsid Romero</h1>
 <h3 align="center">A passionate developer in Peru, I like algorithms and study new themes.</h3>
 
-- 🔭 I’m currently working on **A secret project :) (for now)**
+- 🔭 I’m currently working on **Codeforces extensions**
 
 - 🌱 I’m currently learning **Algorithms (string, data structure, graph, etc.)**
 
-- 👯 I’m looking to collaborate on **WARMITECH**
+- 👯 I’m looking to collaborate on **ACM Chapter Cusco**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Demonicdead0?tab=repositories](https://github.com/Demonicdead0?tab=repositories)
 
