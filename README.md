@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhamsid Romero</h1>
 <h2 align="center">A passionate system and informatics engineer in Peru, I like algorithms and study new themes.</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demonicdead0" alt="demonicdead0" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=user0286-j&rank=AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Competitive programming**
 
