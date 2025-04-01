@@ -9,7 +9,7 @@
 
 - 👯 I’m collaborate with **ACM chapter Cusco**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Demonicdead0?tab=repositories](https://github.com/Demonicdead0?tab=repositories)
+- 👨‍💻 All of my projects are available at [github repositories](https://github.com/user0286-j?tab=repositories)
 
 - 💬 Ask me about **competitive programming, algorithms and IA**
 
@@ -28,20 +28,6 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-
-<h2>IA</h2>
-
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-
-<h2>Browser</h2>
-
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
-![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 <h2>DataBase</h2>
 
